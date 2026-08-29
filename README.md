@@ -1,12 +1,12 @@
 # Hi there, I'm Felipe Koizumi Paschoal 👋
 
-IT Student at Technical School Bento Quirino | Developer in Training
+TI Student at Technical School Bento Quirino | Developer in Training
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** IT Student at Colégio Técnico Bento Quirino.
+- 🎓 **Education:** TI Student at Colégio Técnico Bento Quirino.
 - 💡 **Interests:** Web Development, Automation & Software Engineering.
 - 🎯 **Current Focus:** Building web applications and learning Java & Python.
 
