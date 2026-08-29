@@ -30,7 +30,7 @@ IT Student at Technical School Bento Quirino | Developer in Training
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felpis244&theme=react-dark" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felpis244&theme=dark" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
